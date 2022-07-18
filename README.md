@@ -1,1 +1,1 @@
-## Jogo simples do mario feito com HTML, CSS e Javascript.
+### Jogo simples do mario feito com HTML, CSS e Javascript.
